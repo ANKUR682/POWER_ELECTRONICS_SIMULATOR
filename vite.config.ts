@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/POWER_ELECTRONICS_SIMULATOR/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
