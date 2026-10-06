@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab — Power Electronics Studio",
+  "description": "Interactive Single-Phase & Three-Phase Diode/Thyristor Half-Wave and Full-Bridge Converter Simulation Studio with real-time RK4 solver, diode orientation reversal, multi-trace oscilloscope, and FFT harmonic analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
